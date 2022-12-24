@@ -2,7 +2,7 @@
 
 # Welcome to TimPro
 
-We are software developers, working primarly on Unit Projects for PC or Android devices.
+We develop software, working primarly on Unit Projects for PC or Android devices.
 
 For more details take a look at our repositories!
 
